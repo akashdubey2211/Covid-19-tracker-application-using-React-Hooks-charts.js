@@ -6,7 +6,7 @@ import styles from './App.module.css';
 
 import image from './images/image.png';
 import Footer from './components/Footer/Footer';
-// import Footer from '../src/components/Footer'
+
 
 class App extends React.Component {
   state = {
